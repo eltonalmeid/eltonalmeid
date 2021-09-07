@@ -11,5 +11,4 @@
 </div>
  
 
-  ![Snake animation](https://github.com/eltonalmeid/eltonalmeid/blob/output/github-contribution-grid-snake.svg)
  
