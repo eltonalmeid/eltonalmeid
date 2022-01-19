@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Elton ✌🏽
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando PHP
+- 🔭 Busco atuar como desenvolvedor front-end
+- 🌱 Estudando JavaScript
 - 📫 Contrate-me no email: almeidaelton95@gmail.com 
 
  <div>
