@@ -1,4 +1,4 @@
-### Olá! Eu sou o Elton ✌🏽
+### Olá! Meu nome é Elton ✌🏽😜
 
 - 🔭 Busco atuar como desenvolvedor front-end
 - 🌱 Estudando JavaScript
