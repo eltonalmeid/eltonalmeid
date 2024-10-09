@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Elton ✌🏽😜
 
 - 🔭 Busco atuar como desenvolvedor front-end
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Python
 - 📫 Contrate-me no email: almeidaelton95@gmail.com 
 
 <div align="center">
